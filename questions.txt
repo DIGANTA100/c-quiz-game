@@ -1,0 +1,299 @@
+1. Which of the following is a valid C keyword?
+a) var
+b) then
+c) int
+d) function
+
+2. What is the output of: printf("%d", 5+2);
+a) 52
+b) 7
+c) 5+2
+d) Error
+
+3. Which header file is needed for printf?
+a) stdlib.h
+b) stdio.h
+c) conio.h
+d) string.h
+
+4. What is the extension of a C source file?
+a) .java
+b) .py
+c) .c
+d) .cpp
+
+5. Which symbol is used for comments in C?
+a) // or /* */
+b) <!-- -->
+c) ##
+d) ''
+
+6. What will 10 / 3 return in C?
+a) 3.33
+b) 3
+c) 0
+d) 10
+
+7. Which loop runs at least once?
+a) for
+b) while
+c) do-while
+d) None
+
+8. Which of the following is a valid variable name?
+a) 1value
+b) my-var
+c) total_sum
+d) break
+
+9. Which operator is used for logical AND?
+a) &
+b) &&
+c) |
+d) ||
+
+10. What is the size of int (typically)?
+a) 2 bytes
+b) 4 bytes
+c) 8 bytes
+d) Depends on compiler
+
+11. What does scanf() return?
+a) Nothing
+b) Number of inputs read
+c) Memory address
+d) Char
+
+12. Which function terminates a C program?
+a) end()
+b) break()
+c) exit()
+d) quit()
+
+13. Which of the following is not a loop in C?
+a) for
+b) loop
+c) while
+d) do-while
+
+14. What is the value of 'A' in ASCII?
+a) 65
+b) 66
+c) 97
+d) 64
+
+15. Which of the following is a valid data type?
+a) string
+b) boolean
+c) float
+d) number
+
+16. What is the format specifier for float?
+a) %c
+b) %d
+c) %f
+d) %s
+
+17. Which operator is used to compare values?
+a) =
+b) ==
+c) !=
+d) <=
+
+18. How to declare a constant in C?
+a) const int a;
+b) constant int a;
+c) define int a;
+d) static const;
+
+19. What does #include do?
+a) Include a function
+b) Include a library
+c) Include main
+d) Compile code
+
+20. Which function reads a character?
+a) getchar()
+b) putchar()
+c) printf()
+d) scanf()
+
+21. Which of the following is a valid C keyword?
+a) var
+b) then
+c) int
+d) function
+
+22. What is the output of: printf("%d", 5+2);
+a) 52
+b) 7
+c) 5+2
+d) Error
+
+23. Which header file is needed for printf?
+a) stdlib.h
+b) stdio.h
+c) conio.h
+d) string.h
+
+24. What is the extension of a C source file?
+a) .java
+b) .py
+c) .c
+d) .cpp
+
+25. Which symbol is used for comments in C?
+a) // or /* */
+b) <!-- -->
+c) ##
+d) ''
+
+26. What will 10 / 3 return in C?
+a) 3.33
+b) 3
+c) 0
+d) 10
+
+27. Which loop runs at least once?
+a) for
+b) while
+c) do-while
+d) None
+
+28. Which of the following is a valid variable name?
+a) 1value
+b) my-var
+c) total_sum
+d) break
+
+29. Which operator is used for logical AND?
+a) &
+b) &&
+c) |
+d) ||
+
+30. What is the size of int (typically)?
+a) 2 bytes
+b) 4 bytes
+c) 8 bytes
+d) Depends on compiler
+
+31. What does scanf() return?
+a) Nothing
+b) Number of inputs read
+c) Memory address
+d) Char
+
+32. Which function terminates a C program?
+a) end()
+b) break()
+c) exit()
+d) quit()
+
+33. Which of the following is not a loop in C?
+a) for
+b) loop
+c) while
+d) do-while
+
+34. What is the value of 'A' in ASCII?
+a) 65
+b) 66
+c) 97
+d) 64
+
+35. Which of the following is a valid data type?
+a) string
+b) boolean
+c) float
+d) number
+
+36. What is the format specifier for float?
+a) %c
+b) %d
+c) %f
+d) %s
+
+37. Which operator is used to compare values?
+a) =
+b) ==
+c) !=
+d) <=
+
+38. How to declare a constant in C?
+a) const int a;
+b) constant int a;
+c) define int a;
+d) static const;
+
+39. What does #include do?
+a) Include a function
+b) Include a library
+c) Include main
+d) Compile code
+
+40. Which function reads a character?
+a) getchar()
+b) putchar()
+c) printf()
+d) scanf()
+
+41. Which of the following is a valid C keyword?
+a) var
+b) then
+c) int
+d) function
+
+42. What is the output of: printf("%d", 5+2);
+a) 52
+b) 7
+c) 5+2
+d) Error
+
+43. Which header file is needed for printf?
+a) stdlib.h
+b) stdio.h
+c) conio.h
+d) string.h
+
+44. What is the extension of a C source file?
+a) .java
+b) .py
+c) .c
+d) .cpp
+
+45. Which symbol is used for comments in C?
+a) // or /* */
+b) <!-- -->
+c) ##
+d) ''
+
+46. What will 10 / 3 return in C?
+a) 3.33
+b) 3
+c) 0
+d) 10
+
+47. Which loop runs at least once?
+a) for
+b) while
+c) do-while
+d) None
+
+48. Which of the following is a valid variable name?
+a) 1value
+b) my-var
+c) total_sum
+d) break
+
+49. Which operator is used for logical AND?
+a) &
+b) &&
+c) |
+d) ||
+
+50. What is the size of int (typically)?
+a) 2 bytes
+b) 4 bytes
+c) 8 bytes
+d) Depends on compiler
