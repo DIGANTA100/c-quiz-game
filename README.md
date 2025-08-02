@@ -32,3 +32,5 @@ Using `gcc`:
 
 ```bash
 gcc quiz.c -o quiz
+
+```
