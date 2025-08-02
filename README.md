@@ -16,3 +16,12 @@ This is a simple quiz game written in **C** where users answer multiple-choice q
 
 ## 📁 File Structure
 
+## 🚀 How to Run
+
+### 🔧 Compile
+
+Use GCC to compile:
+
+```bash
+gcc quiz.c -o quiz
+
