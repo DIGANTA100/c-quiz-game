@@ -34,3 +34,8 @@ Using `gcc`:
 gcc quiz.c -o quiz
 
 ```
+### 🖥️ Step 2: Run
+```bash
+./quiz
+
+
